@@ -1,0 +1,2 @@
+# micolegio
+codigo tu colegio
